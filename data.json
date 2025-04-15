@@ -1,0 +1,21 @@
+{
+    "user1": {
+      "Credit Card Info": {
+        "encrypted": "gAAAAABl3xXXlZh9_zD0B8J5vjVkL2UEmJ7NzX2y5jKVuLnfPx8nqjX2TXvCGcX8zKnjYZa2QCnFOzf3uQ1QlRYm9CWsF6JC0Q==",
+        "salt": "eVhLbXJZeHBjODlLdXphZw==",
+        "timestamp": "2025-04-15T10:30:45.123456"
+      },
+      "Secret Note": {
+        "encrypted": "gAAAAABl3xXkNmnDsjfnksdnfKDNsjvbsDFvnsdovnsDLKvnsdoivnsdoivKLSDMvosidvnsdovnspdovsdvsd==",
+        "salt": "ZXhhbXBsZXNhbHRleGFtcGxlc2FsdA==",
+        "timestamp": "2025-04-15T14:22:10.987654"
+      }
+    },
+    "user2": {
+      "Private Address": {
+        "encrypted": "gAAAAABl3xYLKJSDNFVsdovjnsodvinsdovinsdiuvnsduvnsdnvndsjkVNldsjnvLSDJVNldsv==",
+        "salt": "YW5vdGhlcnNhbXBsZXNhbHQ=",
+        "timestamp": "2025-04-14T18:15:32.456789"
+      }
+    }
+  }
